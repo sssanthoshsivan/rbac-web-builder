@@ -4,8 +4,6 @@
 
 This project demonstrates server-side Role-Based Access Control (RBAC) in a minimal WYSIWYG page builder with draft → preview → publish flow.
 
-The focus is architectural clarity, secure permission enforcement, and clean separation of concerns under tight time constraints (4 hours).
-
 Live Demo: https://rbac-web-builder-1eo8.vercel.app/
 
 ---
